@@ -12,4 +12,13 @@
 //
 //= require rails-ujs
 //= require turbolinks
+
+//= require jquery-1.11.1
+//= require bootstrap
+//= require jquery.backstretch
+//= require wow
+//= require waypoints
+//= require jquery.magnific-popup
+//= require scripts
+
 //= require_tree .
